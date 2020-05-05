@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "X:/Class/Fall2018/EC311/TTT/checkerboard_tb_isim_beh.exe" -prj "X:/Class/Fall2018/EC311/TTT/checkerboard_tb_beh.prj" "work.checkerboard_tb" "work.glbl" 
